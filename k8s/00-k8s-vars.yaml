@@ -1,0 +1,3 @@
+defaults:
+  user: ${username}
+k8sdevsandbox: {}
